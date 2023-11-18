@@ -39,7 +39,9 @@ public static void main(String[] args){
 
     
         
-   
+         if (userInput>1000){
+             System.out.println("INVALID NUMBER");
+         }
 
        if (userInput==1000){
       System.out.printf("The Sum Of The Digit Is: %d%n",sumOfUserInput1);          
@@ -49,7 +51,8 @@ public static void main(String[] args){
       System.out.printf("The Sum Of The Digit Is: %d%n",sumOfUserInput2);                    
        }
 
-      
+                         
+            
 
                    
        
