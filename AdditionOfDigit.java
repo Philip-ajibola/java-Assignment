@@ -37,6 +37,11 @@ public static void main(String[] args){
 
            int sumOfUserInput4 = firstDigit4;
 
+
+          if(userInput>1000){
+            System.out.println("INVALID NUMBER, ENTER NUMBER RANGING FROM 0-1000");
+           }
+
     
         
    
