@@ -1,0 +1,5 @@
+Question1
+	The purpose of the type() function is basically to know the data type of which a particular variable is holding as we know that python is a dynamic language (you  have to state the data type before you can make use of the variable holding a value unlike some other language).
+
+Question2
+	We use variable told hold a value so we can be able to access the value through the variable when we need the value. A variable is a container in the memory that holds a value temporarily can be used when needed.
